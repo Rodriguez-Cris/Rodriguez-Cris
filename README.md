@@ -52,6 +52,6 @@
 
 - **Correo Electrónico**: [rdzchris7@gmail.com](mailto:rdzchris7@gmail.com)
 - **GitHub**: [Rodriguez-Cris](https://github.com/tuusuario)
-- **LinkedIn**: [Cristopher Rodríguez](https://linkedin.com/in/tuusuario)
+- **LinkedIn**: [Cristopher Rodríguez](https://linkedin.com/in/cristopher-rodríguez-442a422a7)
 
 ---
