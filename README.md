@@ -51,7 +51,7 @@
 ## 📬 Contacto
 
 - **Correo Electrónico**: [rdzchris7@gmail.com](mailto:rdzchris7@gmail.com)
-- **GitHub**: [tu usuario de GitHub](https://github.com/tuusuario)
+- **GitHub**: [Rodriguez-Cris](https://github.com/tuusuario)
 - **LinkedIn**: [tu perfil de LinkedIn](https://linkedin.com/in/tuusuario)
 
 ---
