@@ -28,7 +28,7 @@
   - **Reflection**: Integración de un modelo avanzado de lenguaje para análisis semántico y generación de texto.
 
 - **Contenedores y DevOps**:  
-  - **Docker**: Manejo de contenedores para el despliegue de aplicaciones. Uso de comandos como **`docker-compose`**, **`docker build`**, **`docker run`**, **`docker ps`**, **`docker login`**, **`docker logout`**, **`docker -v`**.
+  - **Docker**: Manejo de contenedores para el despliegue de aplicaciones. Uso de diversos comandos. 
 
 - **Base de Datos y Herramientas de Administración**:  
   - **DBeaver**: Gestión de bases de datos para garantizar el manejo eficiente de datos.
