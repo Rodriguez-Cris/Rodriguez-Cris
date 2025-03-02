@@ -1,6 +1,6 @@
 # Cristopher Rodríguez Alarcón - Documentador de Datos Junior / Desarrollador Junior 
 
-¡Bienvenido a mi repositorio! Soy un **Documentador de Datos Junior** con gran pasión por la **tecnología**, especialmente en el campo de **Inteligencia Artificial (IA)**, **Modelos de Lenguaje Grande (LLM)** y **Procesamiento de Lenguaje Natural (NLP)**. Estoy comenzando mi carrera profesional en el mundo de la tecnología, con un enfoque fuerte en el aprendizaje continuo, la innovación y la colaboración.
+¡Bienvenido a mi repositorio! Soy un **Documentador de Datos Junior y Desarrollador Junior** con gran pasión por la **tecnología**, especialmente en el campo de **Inteligencia Artificial (IA)**, **Modelos de Lenguaje Grande (LLM)** y **Procesamiento de Lenguaje Natural (NLP)**. Estoy comenzando mi carrera profesional en el mundo de la tecnología, con un enfoque fuerte en el aprendizaje continuo, la innovación y la colaboración.
 
 ---
 
@@ -8,9 +8,31 @@
 
 - **Proyectos TRAI-L**: He trabajado en proyectos enfocados en el uso de tecnologías como **Python** e **IA** para resolver problemas sociales a través de enfoques transdisciplinarios. He colaborado en el desarrollo de herramientas como **Nutribot DiabAsesorIA** para la gestión y prevención de la diabetes, utilizando análisis de datos y recomendaciones personalizadas.
   
-- **Desarrollo de Modelos de Lenguaje**: Mi experiencia incluye la implementación de **Modelos de Lenguaje Grande (LLM)** utilizando herramientas como **Ollama** y la integración de IA para mejorar la interacción con el usuario.
+- **Desarrollo de Modelos de Lenguaje**: Mi experiencia incluye la implementación y evaluación de **Modelos de Lenguaje Grande (LLM)** utilizando herramientas como **Ollama**  En particular, me especializo en la categorización para la mejora de la integración de IA para mejorar la interacción con el usuario; implementación y optimización de modelos de IA para aplicaciones específicas.
 
 ---
+
+🔹 **Categorización de modelos en Ollama**:  
+Los modelos de lenguaje pueden agruparse en diferentes categorías según su propósito:  
+
+- **Modelos de Pensamiento (Reasoning Models)** → Enfocados en resolución de problemas, razonamiento lógico y matemáticas avanzadas.  
+  - Openthinker:7b, Openthinker:32b  
+  - Deepseek-R1:7b, 8b, 14b, 32b  
+  - Reflection:70b-q2_K  
+
+- **Modelos Destilados (Distilled Models)** → Versiones optimizadas de modelos más grandes mediante técnicas de destilación.
+  - Deepscaler:1.5b
+  - Deepseek-R1:1.5b, 7b, 8b, 14b, 32b  
+  - Qwen2.5:1.5b, Qwen2.5:latest, Qwen2:0.5b, Qwen2:1.5b, Qwen2:latest  
+  - Gemma2:2b, Gemma2:9b, Gemma2:latest  
+
+- **Modelos Populares** → Amplio uso en NLP y generación de texto.  
+  - Llama3.2:1b, 3b, latest  
+  - Mistral-Nemo:latest  
+  - Phi3:3.8b, 14b, latest
+
+ ---
+
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 
@@ -25,7 +47,6 @@
 
 - **Modelos de Lenguaje y IA**:  
   - **Ollama**: Implementación de modelos de lenguaje para el procesamiento de texto natural.
-  - **Reflection**: Integración de un modelo avanzado de lenguaje para análisis semántico y generación de texto.
 
 - **Contenedores y DevOps**:  
   - **Docker**: Manejo de contenedores para el despliegue de aplicaciones. Uso de diversos comandos. 
