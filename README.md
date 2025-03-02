@@ -1,4 +1,4 @@
-# Cristopher Rodríguez Alarcón - Documentador de Datos Junior
+# Cristopher Rodríguez Alarcón - Documentador de Datos Junior / Desarrollador Junior 
 
 ¡Bienvenido a mi repositorio! Soy un **Documentador de Datos Junior** con gran pasión por la **tecnología**, especialmente en el campo de **Inteligencia Artificial (IA)**, **Modelos de Lenguaje Grande (LLM)** y **Procesamiento de Lenguaje Natural (NLP)**. Estoy comenzando mi carrera profesional en el mundo de la tecnología, con un enfoque fuerte en el aprendizaje continuo, la innovación y la colaboración.
 
